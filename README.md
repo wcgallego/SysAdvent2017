@@ -56,14 +56,13 @@ Rotations can be a tall order for some companies, though, and not every org’s 
 ## Daily tips and tricks
 Impostor syndrome can really hit home when you’re making a large shift like this. Trying to gearshift when you’ve focused so heavily on one vertical in tech is really daunting. DNS? Filesystems? Database integrity? There’s so many paths to choose and each goes so deep. With so many people who have deep concentrations of knowledge it can be intimidating to try to “catch up”.
 
-
 There’s no need to try to boil the ocean learning all of this in one day. You’re in no rush and you’ve got lots of time in your career no matter where you are looking to pick up skills. You’d probably be surprised at how much you’ve learned in a short time - unless you’re writing out your achievements as they come (and you should! It’s another great way to fight impostor syndrome). There’s a quote attributed to Bill Gates: “Most people overestimate what they can do in one year and underestimate what they can do in ten years.”. We try to do so much in the immediate, but set up a long term plan and you can move mountains. Try working on smaller bite sized projects, courses, and reading that’ll move you along your path.
 
 Here are a few ways to get inspired if you’re looking to attack this problem on multiple fronts:
 * Subscribe to twitter feeds that offer daily tips or regularly contribute to learning. Some of my favorites: Julia Evans ([@bork](https://twitter.com/b0rk)), Command Line Magic ([@climagic](https://twitter.com/climagic)), and of course SysAdvent in December ([@SysAdvent](https://twitter.com/sysadvent))
-* Some of your favorite sites have great tech blogs - [Kickstarter](https://kickstarter.engineering/), Yelp, Netflix, and Etsy
-* Subscribe to mailing lists and newsletters with articles that arrive in your mailbox - Devops Weekly, SysAdmin Casts, Monitoring Weekly, SRE Weekly
-* Add some tech podcasts or screencasts to your commute - Arrested DevOps, CodeNewbie Podcast, SysAdmincasts, Devops Cafe
+* Some of your favorite sites have great tech blogs - [Kickstarter](https://kickstarter.engineering/), [Yelp](https://engineeringblog.yelp.com/), [Netflix](https://medium.com/netflix-techblog), and [Etsy](https://codeascraft.com/)
+* Subscribe to mailing lists and newsletters with articles that arrive in your mailbox - [DevOpsWeekly](http://www.devopsweekly.com/ "DevOps Weekly"), [SysAdmin Casts](https://sysadmincasts.com/get-notified), [Monitoring Weekly](https://weekly.monitoring.love/), and [SRE Weekly](https://sreweekly.com/)
+* Add some tech podcasts or screencasts to your commute - [Arrested DevOps](https://www.arresteddevops.com/), [CodeNewbie Podcast](https://www.codenewbie.org/podcast), [SysAdmincasts](https://sysadmincasts.com/), and [Devops Cafe](http://devopscafe.org/)
 * If your company is doing demo days, sit in on some for other teams you don’t typically collaborate with.
 * Likewise, hack weeks hosted by your company can bubble up great ideas and inspire you to venture into new parts of the stack with guidance from their owners.
 * Start a tech book club at your company reading over a chapter every week or two. Learning can be even more effective when you’re sharing ideas with other like minded folks.
